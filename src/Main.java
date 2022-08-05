@@ -19,6 +19,7 @@ public class Main {
 
 
 
+
         System.out.println(allExpensesMonth + " Сумма трат за месяц" );
         float averageExpenses= allExpensesMonth / arr.length;
         System.out.println(averageExpenses + " средние затраты за день");
