@@ -13,9 +13,9 @@ public class Main {
     public static void main(String[] args) {
         int arr[] = generateRandomArray();
         int allExpensesMonth = 0;
-    for (int i = 0; i < arr.length; i++){
-    allExpensesMonth = allExpensesMonth + arr[i];
-    }
+        for (int i = 0; i < arr.length; i++){
+            allExpensesMonth = allExpensesMonth + arr[i];
+        }
 
 
         System.out.println(allExpensesMonth + " Сумма трат за месяц" );
@@ -50,6 +50,6 @@ public class Main {
             System.out.print(reverseFullName1[i]);
         }
 
-        }
+    }
 
 }
