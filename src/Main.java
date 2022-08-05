@@ -46,6 +46,8 @@ public class Main {
             System.out.print(reverseFullName1[i]);
         }
 
+
     }
+
 
 }
